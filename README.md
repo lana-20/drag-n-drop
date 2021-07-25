@@ -1,4 +1,4 @@
-| [Drag N Drop](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DragNDrop) | [Live Demo](https://lana-20.github.io/drag-n-drop/0) |
+| [Drag N Drop](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DragNDrop) | [Live Demo](https://lana-20.github.io/drag-n-drop/) |
 |----|----|
 
 In this project, I am getting a bit into the drag-and-drop functionality.
